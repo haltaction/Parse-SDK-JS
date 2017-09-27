@@ -288,7 +288,7 @@ export default class ParsePromise {
   }
 
   /**
-   * Returns true iff the given object fulfils the Promise interface.
+   * Returns true if the given object fulfils the Promise interface.
    * @method is
    * @param {Object} promise The object to test
    * @static
